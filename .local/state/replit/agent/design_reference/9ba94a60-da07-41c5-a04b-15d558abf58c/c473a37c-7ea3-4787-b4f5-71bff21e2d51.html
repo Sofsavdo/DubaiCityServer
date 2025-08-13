@@ -1,0 +1,761 @@
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarketPro Fulfillment - Professional Marketplace Management Services</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#2563EB',
+                        secondary: '#7C3AED',
+                        success: '#059669',
+                        warning: '#D97706',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="bg-slate-50 font-sans">
+    <!-- @COMPONENT: Navigation -->
+    <nav class="bg-white border-b border-slate-200 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <h1 class="text-2xl font-bold text-primary">MarketPro</h1>
+                    </div>
+                    <div class="hidden md:block ml-10">
+                        <div class="flex items-baseline space-x-4">
+                            <a href="#services" class="text-slate-600 hover:text-primary px-3 py-2 text-sm font-medium transition-colors">Xizmatlar</a>
+                            <a href="#pricing" class="text-slate-600 hover:text-primary px-3 py-2 text-sm font-medium transition-colors">Narxlar</a>
+                            <a href="#dashboard" class="text-slate-600 hover:text-primary px-3 py-2 text-sm font-medium transition-colors">Dashboard</a>
+                            <a href="#contact" class="text-slate-600 hover:text-primary px-3 py-2 text-sm font-medium transition-colors">Aloqa</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <button class="text-slate-600 hover:text-primary font-medium" data-event="click:showLogin">Kirish</button>
+                    <button class="bg-primary text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors font-medium" data-event="click:showSignup">Boshlash</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- @END_COMPONENT: Navigation -->
+
+    <!-- @COMPONENT: Hero Section -->
+    <section class="relative bg-gradient-to-br from-primary to-secondary overflow-hidden">
+        <!-- Professional marketplace management background image -->
+        <div class="absolute inset-0 bg-black bg-opacity-40"></div>
+        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
+            <div class="grid lg:grid-cols-2 gap-12 items-center">
+                <div class="text-white">
+                    <h1 class="text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+                        Marketplace Savdongizni 
+                        <span class="text-yellow-300">Professional</span> 
+                        Darajaga Ko'taring
+                    </h1>
+                    <p class="text-xl mb-8 text-blue-100 leading-relaxed">
+                        To'liq marketplace management, logistika va fulfillment xizmatlari. Sizning biznesingizni avtomatlashtiring va foydangizni oshiring.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 mb-8">
+                        <button class="bg-white text-primary px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-all transform hover:scale-105 shadow-lg" data-event="click:startTrial">
+                            <i class="fas fa-rocket mr-2"></i>Bepul Konsultatsiya
+                        </button>
+                        <button class="border-2 border-white text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-white hover:text-primary transition-all" data-event="click:watchDemo">
+                            <i class="fas fa-play mr-2"></i>Demo Ko'rish
+                        </button>
+                    </div>
+                    <div class="flex items-center space-x-8 text-blue-100">
+                        <div class="flex items-center">
+                            <i class="fas fa-check-circle text-yellow-300 mr-2"></i>
+                            <span>24/7 Support</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-shield-alt text-yellow-300 mr-2"></i>
+                            <span>Kafolatlangan Natija</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="lg:justify-self-end">
+                    <!-- Professional dashboard mockup showing analytics and growth -->
+                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" alt="Professional marketplace analytics dashboard" class="rounded-2xl shadow-2xl w-full max-w-lg" />
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- @END_COMPONENT: Hero Section -->
+
+    <!-- @COMPONENT: Services Section -->
+    <section id="services" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-slate-900 mb-4">Bizning Xizmatlarimiz</h2>
+                <p class="text-xl text-slate-600 max-w-3xl mx-auto">Marketplace biznesingizni to'liq boshqarish va rivojlantirish uchun professional yechimlar</p>
+            </div>
+            
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Service Card 1 -->
+                <div class="bg-slate-50 p-8 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-1">
+                    <div class="w-16 h-16 bg-primary rounded-xl flex items-center justify-center mb-6">
+                        <i class="fas fa-chart-line text-2xl text-white"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4 text-slate-900">Marketplace Management</h3>
+                    <p class="text-slate-600 mb-6">Kartochka yaratish, narx optimizatsiyasi, raqobatchilar tahlili va savdo strategiyalari</p>
+                    <ul class="space-y-2 text-sm text-slate-600">
+                        <li><i class="fas fa-check text-success mr-2"></i>Professional kartochka dizayni</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>SEO optimizatsiya</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Narx monitoringi</li>
+                    </ul>
+                </div>
+
+                <!-- Service Card 2 -->
+                <div class="bg-slate-50 p-8 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-1">
+                    <div class="w-16 h-16 bg-secondary rounded-xl flex items-center justify-center mb-6">
+                        <i class="fas fa-warehouse text-2xl text-white"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4 text-slate-900">Logistika va Fulfillment</h3>
+                    <p class="text-slate-600 mb-6">To'liq logistika xizmatlari, qadoqlash va yetkazib berish tizimi</p>
+                    <ul class="space-y-2 text-sm text-slate-600">
+                        <li><i class="fas fa-check text-success mr-2"></i>Avtomatlashtirilgan qadoqlash</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Tezkor yetkazib berish</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Inventar boshqaruvi</li>
+                    </ul>
+                </div>
+
+                <!-- Service Card 3 -->
+                <div class="bg-slate-50 p-8 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-1">
+                    <div class="w-16 h-16 bg-warning rounded-xl flex items-center justify-center mb-6">
+                        <i class="fas fa-headset text-2xl text-white"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4 text-slate-900">Mijozlar Xizmati</h3>
+                    <p class="text-slate-600 mb-6">Professional mijozlar bilan ishlash va qo'llab-quvvatlash xizmatlari</p>
+                    <ul class="space-y-2 text-sm text-slate-600">
+                        <li><i class="fas fa-check text-success mr-2"></i>24/7 chat support</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Shikoyatlar boshqaruvi</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Qaytarish jarayoni</li>
+                    </ul>
+                </div>
+
+                <!-- Service Card 4 -->
+                <div class="bg-slate-50 p-8 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-1">
+                    <div class="w-16 h-16 bg-success rounded-xl flex items-center justify-center mb-6">
+                        <i class="fas fa-analytics text-2xl text-white"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4 text-slate-900">Analytics va Reporting</h3>
+                    <p class="text-slate-600 mb-6">Chuqur tahlil va hisobotlar orqali biznesingizni rivojlantiring</p>
+                    <ul class="space-y-2 text-sm text-slate-600">
+                        <li><i class="fas fa-check text-success mr-2"></i>Real-time analytics</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Foyda tahlili</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Trend prognozlari</li>
+                    </ul>
+                </div>
+
+                <!-- Service Card 5 -->
+                <div class="bg-slate-50 p-8 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-1">
+                    <div class="w-16 h-16 bg-purple-600 rounded-xl flex items-center justify-center mb-6">
+                        <i class="fas fa-boxes text-2xl text-white"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4 text-slate-900">Inventar Management</h3>
+                    <p class="text-slate-600 mb-6">Aqlli inventar boshqaruvi va avtomatik buyurtma tizimi</p>
+                    <ul class="space-y-2 text-sm text-slate-600">
+                        <li><i class="fas fa-check text-success mr-2"></i>Avtomatik stock nazorati</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Supplier management</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Cost optimization</li>
+                    </ul>
+                </div>
+
+                <!-- Service Card 6 -->
+                <div class="bg-slate-50 p-8 rounded-2xl hover:shadow-lg transition-all hover:-translate-y-1">
+                    <div class="w-16 h-16 bg-pink-600 rounded-xl flex items-center justify-center mb-6">
+                        <i class="fas fa-cogs text-2xl text-white"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4 text-slate-900">Avtomatlashtirish</h3>
+                    <p class="text-slate-600 mb-6">To'liq avtomatlashtirilgan jarayonlar va workflow optimizatsiya</p>
+                    <ul class="space-y-2 text-sm text-slate-600">
+                        <li><i class="fas fa-check text-success mr-2"></i>Order processing</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Price automation</li>
+                        <li><i class="fas fa-check text-success mr-2"></i>Workflow optimization</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- @END_COMPONENT: Services Section -->
+
+    <!-- @COMPONENT: Pricing Section -->
+    <section id="pricing" class="py-20 bg-slate-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-slate-900 mb-4">Professional Hamkorlik Sharoitlari</h2>
+                <p class="text-xl text-slate-600 max-w-3xl mx-auto">Sizning muvaffaqiyatingiz bizning muvaffaqiyatingizdir. Shaffof va adolatli haq to'lash tizimi.</p>
+            </div>
+
+            <div class="max-w-4xl mx-auto">
+                <!-- Main Pricing Card -->
+                <div class="bg-white rounded-3xl shadow-xl overflow-hidden border-2 border-primary">
+                    <div class="bg-gradient-to-r from-primary to-secondary p-8 text-white text-center">
+                        <h3 class="text-3xl font-bold mb-2">Premium Partnership</h3>
+                        <p class="text-blue-100">To'liq marketplace management xizmatlari</p>
+                    </div>
+                    
+                    <div class="p-8">
+                        <div class="grid md:grid-cols-2 gap-8 mb-8">
+                            <!-- Fixed Fee -->
+                            <div class="text-center">
+                                <div class="bg-slate-50 rounded-2xl p-6">
+                                    <i class="fas fa-hand-holding-usd text-3xl text-primary mb-4"></i>
+                                    <h4 class="text-xl font-semibold mb-2">Bazaviy Haq</h4>
+                                    <div class="text-3xl font-bold text-primary mb-2">5.5 mln so'm</div>
+                                    <p class="text-slate-600">Oylik fiksatsiya haq</p>
+                                </div>
+                            </div>
+
+                            <!-- Performance Fee -->
+                            <div class="text-center">
+                                <div class="bg-slate-50 rounded-2xl p-6">
+                                    <i class="fas fa-chart-line text-3xl text-secondary mb-4"></i>
+                                    <h4 class="text-xl font-semibold mb-2">Performance Bonus</h4>
+                                    <div class="text-3xl font-bold text-secondary mb-2">15-25%</div>
+                                    <p class="text-slate-600">Sof foydadan ulush</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Tiered Commission Structure -->
+                        <div class="mb-8">
+                            <h4 class="text-xl font-semibold mb-6 text-center">Progressiv Foyda Ulushi Tizimi</h4>
+                            <div class="space-y-4">
+                                <div class="flex items-center justify-between p-4 bg-slate-50 rounded-xl">
+                                    <div class="flex items-center">
+                                        <div class="w-12 h-12 bg-yellow-500 rounded-full flex items-center justify-center mr-4">
+                                            <i class="fas fa-seedling text-white"></i>
+                                        </div>
+                                        <div>
+                                            <div class="font-semibold">Boshlang'ich Daraja</div>
+                                            <div class="text-sm text-slate-600">0 - 75 mln so'm</div>
+                                        </div>
+                                    </div>
+                                    <div class="text-right">
+                                        <div class="font-bold text-slate-900">Faqat bazaviy haq</div>
+                                        <div class="text-sm text-slate-600">Foyda ulushi yo'q</div>
+                                    </div>
+                                </div>
+
+                                <div class="flex items-center justify-between p-4 bg-green-50 rounded-xl border border-green-200">
+                                    <div class="flex items-center">
+                                        <div class="w-12 h-12 bg-green-500 rounded-full flex items-center justify-center mr-4">
+                                            <i class="fas fa-leaf text-white"></i>
+                                        </div>
+                                        <div>
+                                            <div class="font-semibold">O'sish Daraja</div>
+                                            <div class="text-sm text-slate-600">75 - 125 mln so'm</div>
+                                        </div>
+                                    </div>
+                                    <div class="text-right">
+                                        <div class="font-bold text-green-600">15%</div>
+                                        <div class="text-sm text-slate-600">sof foydadan</div>
+                                    </div>
+                                </div>
+
+                                <div class="flex items-center justify-between p-4 bg-blue-50 rounded-xl border border-blue-200">
+                                    <div class="flex items-center">
+                                        <div class="w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center mr-4">
+                                            <i class="fas fa-tree text-white"></i>
+                                        </div>
+                                        <div>
+                                            <div class="font-semibold">Professional Daraja</div>
+                                            <div class="text-sm text-slate-600">125 - 200 mln so'm</div>
+                                        </div>
+                                    </div>
+                                    <div class="text-right">
+                                        <div class="font-bold text-blue-600">20%</div>
+                                        <div class="text-sm text-slate-600">sof foydadan</div>
+                                    </div>
+                                </div>
+
+                                <div class="flex items-center justify-between p-4 bg-purple-50 rounded-xl border border-purple-200">
+                                    <div class="flex items-center">
+                                        <div class="w-12 h-12 bg-purple-500 rounded-full flex items-center justify-center mr-4">
+                                            <i class="fas fa-crown text-white"></i>
+                                        </div>
+                                        <div>
+                                            <div class="font-semibold">Elite Daraja</div>
+                                            <div class="text-sm text-slate-600">200+ mln so'm</div>
+                                        </div>
+                                    </div>
+                                    <div class="text-right">
+                                        <div class="font-bold text-purple-600">25%</div>
+                                        <div class="text-sm text-slate-600">sof foydadan</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Value Propositions -->
+                        <div class="grid md:grid-cols-3 gap-4 mb-8">
+                            <div class="text-center p-4 bg-primary/5 rounded-xl">
+                                <i class="fas fa-clock text-2xl text-primary mb-2"></i>
+                                <div class="font-semibold">24/7 Ishlash</div>
+                                <div class="text-sm text-slate-600">Doimiy monitoring</div>
+                            </div>
+                            <div class="text-center p-4 bg-secondary/5 rounded-xl">
+                                <i class="fas fa-shield-alt text-2xl text-secondary mb-2"></i>
+                                <div class="font-semibold">Kafolat</div>
+                                <div class="text-sm text-slate-600">Natija kafolati</div>
+                            </div>
+                            <div class="text-center p-4 bg-success/5 rounded-xl">
+                                <i class="fas fa-rocket text-2xl text-success mb-2"></i>
+                                <div class="font-semibold">Tez Boshlash</div>
+                                <div class="text-sm text-slate-600">24 soatda ishga tushish</div>
+                            </div>
+                        </div>
+
+                        <div class="text-center">
+                            <button class="bg-gradient-to-r from-primary to-secondary text-white px-8 py-4 rounded-xl font-semibold text-lg hover:shadow-lg transition-all transform hover:scale-105" data-event="click:requestPartnership">
+                                <i class="fas fa-handshake mr-2"></i>Hamkorlik Boshlash
+                            </button>
+                            <p class="text-sm text-slate-600 mt-4">Bepul konsultatsiya va taklif tayyorlash</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- @END_COMPONENT: Pricing Section -->
+
+    <!-- @COMPONENT: Partner Dashboard Demo -->
+    <section id="dashboard" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-slate-900 mb-4">Professional Dashboard</h2>
+                <p class="text-xl text-slate-600 max-w-3xl mx-auto">Real vaqtda biznesingizni monitoring qiling va to'liq nazoratni qo'lga oling</p>
+            </div>
+
+            <!-- Dashboard Preview -->
+            <div class="bg-slate-900 rounded-3xl p-8 shadow-2xl">
+                <!-- Dashboard Header -->
+                <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between mb-8">
+                    <div class="text-white mb-4 lg:mb-0">
+                        <h3 class="text-2xl font-bold mb-2">Partner Dashboard</h3>
+                        <p class="text-slate-300">Hamkor: <span data-bind="partner.name">Aziz Karimov</span></p>
+                    </div>
+                    <div class="flex items-center space-x-4">
+                        <div class="bg-success text-white px-4 py-2 rounded-lg flex items-center">
+                            <i class="fas fa-circle text-green-400 mr-2 text-xs animate-pulse"></i>
+                            <span class="text-sm font-medium">Online</span>
+                        </div>
+                        <button class="bg-primary text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition-colors" data-event="click:openChat">
+                            <i class="fas fa-comments mr-2"></i>Chat
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Key Metrics -->
+                <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+                    <div class="bg-slate-800 rounded-xl p-6">
+                        <div class="flex items-center justify-between mb-4">
+                            <i class="fas fa-chart-line text-2xl text-blue-400"></i>
+                            <span class="text-green-400 text-sm font-medium">+12.5%</span>
+                        </div>
+                        <div class="text-white">
+                            <div class="text-2xl font-bold" data-bind="metrics.monthlySales">142.8 mln</div>
+                            <div class="text-slate-400 text-sm">Oylik savdo</div>
+                        </div>
+                    </div>
+
+                    <div class="bg-slate-800 rounded-xl p-6">
+                        <div class="flex items-center justify-between mb-4">
+                            <i class="fas fa-wallet text-2xl text-green-400"></i>
+                            <span class="text-green-400 text-sm font-medium">+8.3%</span>
+                        </div>
+                        <div class="text-white">
+                            <div class="text-2xl font-bold" data-bind="metrics.profit">28.6 mln</div>
+                            <div class="text-slate-400 text-sm">Sof foyda</div>
+                        </div>
+                    </div>
+
+                    <div class="bg-slate-800 rounded-xl p-6">
+                        <div class="flex items-center justify-between mb-4">
+                            <i class="fas fa-boxes text-2xl text-purple-400"></i>
+                            <span class="text-blue-400 text-sm font-medium">+156</span>
+                        </div>
+                        <div class="text-white">
+                            <div class="text-2xl font-bold" data-bind="metrics.orders">1,284</div>
+                            <div class="text-slate-400 text-sm">Buyurtmalar</div>
+                        </div>
+                    </div>
+
+                    <div class="bg-slate-800 rounded-xl p-6">
+                        <div class="flex items-center justify-between mb-4">
+                            <i class="fas fa-percentage text-2xl text-yellow-400"></i>
+                            <span class="text-green-400 text-sm font-medium">+2.1%</span>
+                        </div>
+                        <div class="text-white">
+                            <div class="text-2xl font-bold" data-bind="metrics.conversionRate">4.8%</div>
+                            <div class="text-slate-400 text-sm">Konversiya</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts and Analytics -->
+                <div class="grid lg:grid-cols-2 gap-8">
+                    <!-- Revenue Chart -->
+                    <div class="bg-slate-800 rounded-xl p-6">
+                        <h4 class="text-white text-lg font-semibold mb-4">Daromad Dinamikasi</h4>
+                        <div class="h-64 bg-slate-700 rounded-lg flex items-center justify-center">
+                            <div class="text-center text-slate-400">
+                                <i class="fas fa-chart-area text-4xl mb-4"></i>
+                                <div><!-- TODO: Implement Chart.js integration --></div>
+                                <div>Interactive Revenue Chart</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Recent Activity -->
+                    <div class="bg-slate-800 rounded-xl p-6">
+                        <h4 class="text-white text-lg font-semibold mb-4">So'nggi Faoliyat</h4>
+                        <div class="space-y-4">
+                            <!-- @MAP: activities.map(activity => ( -->
+                            <div class="flex items-center p-3 bg-slate-700 rounded-lg" data-mock="true">
+                                <div class="w-10 h-10 bg-primary rounded-full flex items-center justify-center mr-3">
+                                    <i class="fas fa-shopping-cart text-white text-sm"></i>
+                                </div>
+                                <div class="flex-1">
+                                    <div class="text-white text-sm font-medium">Yangi buyurtma qabul qilindi</div>
+                                    <div class="text-slate-400 text-xs">#ORD-12847 • 2.4 mln so'm</div>
+                                </div>
+                                <div class="text-slate-400 text-xs">5 min oldin</div>
+                            </div>
+
+                            <div class="flex items-center p-3 bg-slate-700 rounded-lg" data-mock="true">
+                                <div class="w-10 h-10 bg-success rounded-full flex items-center justify-center mr-3">
+                                    <i class="fas fa-check text-white text-sm"></i>
+                                </div>
+                                <div class="flex-1">
+                                    <div class="text-white text-sm font-medium">Buyurtma yetkazildi</div>
+                                    <div class="text-slate-400 text-xs">#ORD-12834 • Mijoz rozi</div>
+                                </div>
+                                <div class="text-slate-400 text-xs">12 min oldin</div>
+                            </div>
+
+                            <div class="flex items-center p-3 bg-slate-700 rounded-lg" data-mock="true">
+                                <div class="w-10 h-10 bg-warning rounded-full flex items-center justify-center mr-3">
+                                    <i class="fas fa-exclamation text-white text-sm"></i>
+                                </div>
+                                <div class="flex-1">
+                                    <div class="text-white text-sm font-medium">Inventar kam qoldi</div>
+                                    <div class="text-slate-400 text-xs">Samsung Galaxy A54 • 12 dona qoldi</div>
+                                </div>
+                                <div class="text-slate-400 text-xs">25 min oldin</div>
+                            </div>
+                            <!-- @END_MAP )) -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- @END_COMPONENT: Partner Dashboard Demo -->
+
+    <!-- @COMPONENT: Testimonials Section -->
+    <section class="py-20 bg-slate-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-slate-900 mb-4">Mijozlar Fikrlari</h2>
+                <p class="text-xl text-slate-600 max-w-3xl mx-auto">Bizning hamkorlarimiz nima deyishadi</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- @MAP: testimonials.map(testimonial => ( -->
+                <div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow" data-mock="true">
+                    <div class="flex items-center mb-6">
+                        <!-- Professional business person headshot -->
+                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150" alt="Satisfied client testimonial" class="w-16 h-16 rounded-full object-cover mr-4" />
+                        <div>
+                            <div class="font-semibold text-slate-900">Sardor Toshev</div>
+                            <div class="text-sm text-slate-600">E-commerce Owner</div>
+                        </div>
+                    </div>
+                    <div class="flex mb-4">
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                    </div>
+                    <p class="text-slate-600 italic">"MarketPro bilan ishlashdan keyin biznesingim 3 baravar oshdi. Professional yondashuv va natijalar ajoyib!"</p>
+                </div>
+
+                <div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow" data-mock="true">
+                    <div class="flex items-center mb-6">
+                        <!-- Professional businesswoman headshot -->
+                        <img src="https://pixabay.com/get/g00bc87e82a880ded532796e781bf008557a33775d741de739a96a2fa65abb318d2bbc36576f89dba8e6ac19a1db4c2d33d3047969a7f55402930b15c5b5633be_1280.jpg" alt="Happy business client" class="w-16 h-16 rounded-full object-cover mr-4" />
+                        <div>
+                            <div class="font-semibold text-slate-900">Nilufar Karimova</div>
+                            <div class="text-sm text-slate-600">Marketplace Seller</div>
+                        </div>
+                    </div>
+                    <div class="flex mb-4">
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                    </div>
+                    <p class="text-slate-600 italic">"Avtomatlashtirish va professional yondashuv tufayli vaqtim 70% tejaldi. Endi strategiyaga e'tibor berishim mumkin."</p>
+                </div>
+
+                <div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow" data-mock="true">
+                    <div class="flex items-center mb-6">
+                        <!-- Professional entrepreneur headshot -->
+                        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150" alt="Successful entrepreneur client" class="w-16 h-16 rounded-full object-cover mr-4" />
+                        <div>
+                            <div class="font-semibold text-slate-900">Azamat Rahimov</div>
+                            <div class="text-sm text-slate-600">Business Owner</div>
+                        </div>
+                    </div>
+                    <div class="flex mb-4">
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                    </div>
+                    <p class="text-slate-600 italic">"Eng yaxshi qaror edi! Foydam 5 baravar oshdi va jarayonlar to'liq avtomatlashdi. Tavsiya qilaman!"</p>
+                </div>
+                <!-- @END_MAP )) -->
+            </div>
+        </div>
+    </section>
+    <!-- @END_COMPONENT: Testimonials Section -->
+
+    <!-- @COMPONENT: Contact Section -->
+    <section id="contact" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid lg:grid-cols-2 gap-12 items-center">
+                <div>
+                    <h2 class="text-4xl font-bold text-slate-900 mb-6">Hamkorlikni Boshlang</h2>
+                    <p class="text-xl text-slate-600 mb-8">Biznesingizni keyingi bosqichga olib chiqish uchun professional konsultatsiya oling</p>
+                    
+                    <div class="space-y-6 mb-8">
+                        <div class="flex items-center">
+                            <div class="w-12 h-12 bg-primary rounded-xl flex items-center justify-center mr-4">
+                                <i class="fas fa-phone text-white"></i>
+                            </div>
+                            <div>
+                                <div class="font-semibold">Telefon</div>
+                                <div class="text-slate-600">+998 (90) 123-45-67</div>
+                            </div>
+                        </div>
+
+                        <div class="flex items-center">
+                            <div class="w-12 h-12 bg-secondary rounded-xl flex items-center justify-center mr-4">
+                                <i class="fas fa-envelope text-white"></i>
+                            </div>
+                            <div>
+                                <div class="font-semibold">Email</div>
+                                <div class="text-slate-600">info@marketpro.uz</div>
+                            </div>
+                        </div>
+
+                        <div class="flex items-center">
+                            <div class="w-12 h-12 bg-success rounded-xl flex items-center justify-center mr-4">
+                                <i class="fab fa-telegram text-white"></i>
+                            </div>
+                            <div>
+                                <div class="font-semibold">Telegram</div>
+                                <div class="text-slate-600">@MarketProSupport</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="flex flex-col sm:flex-row gap-4">
+                        <button class="bg-primary text-white px-6 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors" data-event="click:scheduleCall">
+                            <i class="fas fa-calendar-alt mr-2"></i>Konsultatsiya Belgilash
+                        </button>
+                        <button class="border-2 border-primary text-primary px-6 py-3 rounded-xl font-semibold hover:bg-primary hover:text-white transition-colors" data-event="click:downloadPresentation">
+                            <i class="fas fa-download mr-2"></i>Taqdimot Yuklab Olish
+                        </button>
+                    </div>
+                </div>
+
+                <div class="bg-slate-50 rounded-3xl p-8">
+                    <h3 class="text-2xl font-bold mb-6 text-slate-900">Tezkor Aloqa</h3>
+                    <form class="space-y-6" data-event="submit:handleContactForm">
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 mb-2">Ismingiz</label>
+                            <input type="text" class="w-full px-4 py-3 border border-slate-300 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary transition-colors" placeholder="Ismingizni kiriting" data-bind="form.name" required />
+                        </div>
+
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 mb-2">Telefon raqam</label>
+                            <input type="tel" class="w-full px-4 py-3 border border-slate-300 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary transition-colors" placeholder="+998 (90) 123-45-67" data-bind="form.phone" required />
+                        </div>
+
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 mb-2">Email</label>
+                            <input type="email" class="w-full px-4 py-3 border border-slate-300 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary transition-colors" placeholder="email@example.com" data-bind="form.email" required />
+                        </div>
+
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 mb-2">Biznes haqida qisqacha</label>
+                            <textarea rows="4" class="w-full px-4 py-3 border border-slate-300 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary transition-colors" placeholder="Biznesingiz haqida qisqacha ma'lumot..." data-bind="form.message"></textarea>
+                        </div>
+
+                        <button type="submit" class="w-full bg-gradient-to-r from-primary to-secondary text-white py-3 rounded-xl font-semibold hover:shadow-lg transition-all transform hover:scale-105" data-implementation="Should validate form and send email">
+                            <i class="fas fa-paper-plane mr-2"></i>Murojaat Yuborish
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- @END_COMPONENT: Contact Section -->
+
+    <!-- @COMPONENT: Footer -->
+    <footer class="bg-slate-900 text-white py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div>
+                    <h3 class="text-2xl font-bold mb-4">MarketPro</h3>
+                    <p class="text-slate-300 mb-4">Professional marketplace management va fulfillment xizmatlari</p>
+                    <div class="flex space-x-4">
+                        <a href="#" class="text-slate-400 hover:text-white transition-colors"><i class="fab fa-telegram text-xl"></i></a>
+                        <a href="#" class="text-slate-400 hover:text-white transition-colors"><i class="fab fa-instagram text-xl"></i></a>
+                        <a href="#" class="text-slate-400 hover:text-white transition-colors"><i class="fab fa-linkedin text-xl"></i></a>
+                    </div>
+                </div>
+
+                <div>
+                    <h4 class="font-semibold mb-4">Xizmatlar</h4>
+                    <ul class="space-y-2 text-slate-300">
+                        <li><a href="#" class="hover:text-white transition-colors">Marketplace Management</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Fulfillment</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Analytics</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Avtomatlashtirish</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="font-semibold mb-4">Kompaniya</h4>
+                    <ul class="space-y-2 text-slate-300">
+                        <li><a href="#" class="hover:text-white transition-colors">Biz haqimizda</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Jamoa</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Karyera</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Yangiliklar</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="font-semibold mb-4">Qo'llab-quvvatlash</h4>
+                    <ul class="space-y-2 text-slate-300">
+                        <li><a href="#" class="hover:text-white transition-colors">Yordam markazi</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Dokumentatsiya</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Aloqa</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">FAQ</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="border-t border-slate-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
+                <div class="text-slate-400 text-sm">
+                    © 2024 MarketPro. Barcha huquqlar himoyalangan.
+                </div>
+                <div class="flex space-x-6 text-sm text-slate-400 mt-4 md:mt-0">
+                    <a href="#" class="hover:text-white transition-colors">Maxfiylik siyosati</a>
+                    <a href="#" class="hover:text-white transition-colors">Foydalanish shartlari</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- @END_COMPONENT: Footer -->
+
+    <!-- Chat Widget -->
+    <!-- @STATE: isChatOpen:boolean = false -->
+    <div class="fixed bottom-6 right-6 z-50">
+        <button class="bg-primary text-white w-14 h-14 rounded-full shadow-lg hover:shadow-xl transition-all hover:scale-110 flex items-center justify-center" data-event="click:toggleChat">
+            <i class="fas fa-comments text-xl"></i>
+        </button>
+    </div>
+
+    <script>
+        (function() {
+            // TODO: Implement business logic, API calls, or state management
+            
+            // Smooth scrolling for navigation links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                });
+            });
+
+            // Animation on scroll
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, observerOptions);
+
+            // Observe elements for animation
+            document.querySelectorAll('section > div').forEach(el => {
+                el.style.opacity = '0';
+                el.style.transform = 'translateY(20px)';
+                el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                observer.observe(el);
+            });
+
+            // Mobile menu toggle
+            const mobileMenuBtn = document.querySelector('[data-mobile-menu]');
+            if (mobileMenuBtn) {
+                mobileMenuBtn.addEventListener('click', function() {
+                    // TODO: Implement mobile menu toggle
+                });
+            }
+
+            // Form validation and submission
+            const forms = document.querySelectorAll('form');
+            forms.forEach(form => {
+                form.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    // TODO: Implement form validation and submission
+                    console.log('Form submitted:', new FormData(this));
+                });
+            });
+
+            // Dashboard interactions
+            const chatButtons = document.querySelectorAll('[data-event*="chat"]');
+            chatButtons.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // TODO: Implement chat functionality
+                    console.log('Opening chat...');
+                });
+            });
+
+        })();
+    </script>
+</body>
+</html>
