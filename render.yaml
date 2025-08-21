@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: dubai-city-server
+    env: node
+    plan: starter
+    buildCommand: npm ci && npm run db:push && npm run build
+    startCommand: npm start
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: DATABASE_URL
+        sync: false
+      - key: FRONTEND_ORIGIN
+        sync: false
+    healthCheckPath: /healthz
+

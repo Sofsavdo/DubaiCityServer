@@ -1,0 +1,8 @@
+10:15:30 AM [express] 🚀 Server running on 0.0.0.0:5000
+10:15:30 AM [express] 🔒 Authentication: Custom session-based (NO REPLIT AUTH)
+10:15:30 AM [express] 🔑 Admin Login: username: admin, password: admin123
+10:15:30 AM [express] 👥 Partner Registration: /partner-registration
+10:15:30 AM [express] 🌐 Environment: development
+10:15:30 AM [express] 🌍 Replit Domain: 2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev
+10:15:30 AM [express] ✅ Port 5000 is now accessible for preview
+10:15:44 AM [express] Server closed
