@@ -1,0 +1,8 @@
+[deployment]
+deploymentTarget = "autoscale"
+build = ["sh", "-c", "npm run build"]
+run = ["sh", "-c", "npm start"]
+
+[[ports]]
+localPort = 5000
+externalPort = 80

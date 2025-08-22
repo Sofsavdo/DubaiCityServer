@@ -1,0 +1,100 @@
+G'ayratjon, [19.08.2025 0:04]
+. Risksiz Boshlovchi
+Tavsif: Yangi boshlovchilar uchun nol xavfli boshlash imkoniyati. Fiks to’lovsiz, lekin yuqori foizlar bilan foyda ulushi katta.
+Shartlar:
+Fiks to’lov: 0 so’m.
+SPT: 2,000 so’m/dona (hamkor mas’uliyati).
+Foiz:
+0-5 mln so’m sof foyda: 40% ulush.
+5-20 mln so’m: 35% ulush.
+20-50 mln so’m: 30% ulush.
+50 mln so’m+: 25% ulush.
+Imtiyozlar hamkorlar uchun:
+Nol xavfli boshlash – hech qanday boshlang’ich investitsiya talab qilinmaydi.
+1 oy sinov muddati – xavfsiz sinab ko’rish.
+10-15% margin – o’zingiz qilganingizdan 2-3 baravar ko’p foyda.
+Shaffof hisob-kitob – onlayn kalkulyator orqali foydangizni ko’rasiz.
+Imtiyozlar siz uchun:
+25-40% ulush xodim (45-60 mln so’m/oy) va boshqa xarajatlarni qoplaydi.
+Savdo oshsa, Premiumga o’tishga undaydi, bu daromadingizni oshiradi.
+Misol:
+Daromad: 20 mln so’m, sof foyda 4.6 mln so’m.
+Fulfilment haq: 0 fiks + 1.61 mln (35% * 4.6 mln) = 1.61 mln so’m.
+Hamkor foydasi: 4.6 mln - 1.61 mln = 2.99 mln so’m (~15% margin).
+Sizning foydangiz: 1.61 mln - (0.12 mln soliq + 0.016 mln IT Park) = 1.474 mln so’m (server va boshqa xarajatlarsiz).
+Win-Win holati: Hamkor yuqori foyda ko’radi, siz esa barqaror daromad olasiz.
+2. Standart
+Tavsif: Kichik bizneslar uchun barqaror variant. Minimal fiks to’lov bilan boshlanadi, foizlar Risksiz Boshlovchidan pastroq.
+Shartlar:
+Fiks to’lov: 2.8 mln so’m/oy.
+SPT: 2,000 so’m/dona (hamkor mas’uliyati).
+Foiz:
+0-5 mln so’m sof foyda: 20% ulush.
+5-20 mln so’m: 18% ulush.
+20-50 mln so’m: 15% ulush.
+50 mln so’m+: 12% ulush.
+Imtiyozlar hamkorlar uchun:
+Past fiks to’lov (2.8 mln so’m) – o’zingiz qilganingizdan 50-70% tejamkor.
+12-15% margin bilan yuqori foyda.
+1 oy sinov muddati.
+API integratsiyasi orqali savdo avtomatlashtiriladi.
+Imtiyozlar siz uchun:
+2.8 mln fiks + 12-20% ulush xodim va boshqa xarajatlarni qoplaydi.
+Savdo oshsa, daromad barqaror oshadi.
+Misol:
+Daromad: 20 mln so’m, sof foyda 4.6 mln so’m.
+Fulfilment haq: 2.8 mln fiks + 0.828 mln (18% * 4.6 mln) = 3.628 mln so’m.
+Hamkor foydasi: 4.6 mln - 3.628 mln = 0.972 mln so’m (~4.9% margin, lekin sinovda yaxshi).
+Sizning foydangiz: 3.628 mln - (0.272 mln soliq + 0.036 mln IT Park) = 3.32 mln so’m.
+Win-Win holati: Hamkor arzon xizmat oladi, siz esa katta foyda ko’rasiz.
+3. O’rta Biznes
+Tavsif: O’rta hajmli savdo uchun optimallashtirilgan. Fiks oshgan sari foizlar kamayadi.
+Shartlar:
+Fiks to’lov: 5 mln so’m/oy.
+SPT: 2,000 so’m/dona (hamkor mas’uliyati).
+Foiz:
+0-5 mln so’m sof foyda: 18% ulush.
+5-20 mln so’m: 16% ulush.
+20-50 mln so’m: 14% ulush.
+50 mln so’m+: 12% ulush.
+Imtiyozlar hamkorlar uchun:
+5 mln fiks bilan barqaror xizmat.
+12-14% margin bilan yaxshi foyda.
+Maxsus yordam va shaffof hisobot.
+Imtiyozlar siz uchun:
+5 mln fiks + 12-18% ulush katta savdoda yuqori daromad keltiradi.
+Xodim va logistika xarajatlari qoplanadi.
+Misol:
+Daromad: 50 mln so’m, sof foyda 11.5 mln so’m.
+Fulfilment haq: 5 mln fiks + 1.61 mln (14% * 11.5 mln) = 6.61 mln so’m.
+Hamkor foydasi: 11.5 mln - 6.61 mln = 4.89 mln so’m (~9.8% margin).
+Sizning foydangiz: 6.61 mln - (0.495 mln soliq + 0.066 mln IT Park) = 6.049 mln so’m.
+Win-Win holati: Hamkor katta foyda ko’radi, siz esa barqaror daromad olasiz.
+4. Premium
+Tavsif: Yirik bizneslar uchun maxsus xizmat. Katta fiks bilan foizlar eng past, lekin 12% dan tushmaydi.
+Shartlar:
+Fiks to’lov: 8 mln so’m/oy.
+SPT: 2,000 so’m/dona (hamkor mas’uliyati).
+Foiz:
+0-5 mln so’m sof foyda: 16% ulush.
+5-20 mln so’m: 14% ulush.
+20-50 mln so’m: 13% ulush.
+50 mln so’m+: 12% ulush.
+Imtiyozlar hamkorlar uchun:
+8 mln fiks bilan yuqori sifatli xizmat.
+12-13% margin bilan yaxshi foyda.
+Premium hisobot va maslahat.
+Imtiyozlar siz uchun:
+8 mln fiks + 12-16% ulush katta daromad keltiradi.
+Katta savdoda xodim va ombor xarajatlari qoplanadi.
+Misol:
+Daromad: 200 mln so’m, sof foyda 46 mln so’m.
+Fulfilment haq: 8 mln fiks + 5.98 mln (13% * 46 mln) = 13.98 mln so’m.
+
+G'ayratjon, [19.08.2025 0:04]
+Hamkor foydasi: 46 mln - 13.98 mln = 32.02 mln so’m (~16% margin).
+Sizning foydangiz: 13.98 mln - (1.049 mln soliq + 0.14 mln IT Park) = 12.791 mln so’m.
+Win-Win holati: Hamkor katta foyda oladi, siz esa yuqori daromad ko’rasiz.
+Umumiy tushuntirish va “Win-Win” holati
+Hamkorlar uchun:
+O’zingiz savdo qilsangiz, ombor (~5-10 mln so’m), xodimlar (~30-50 mln so’m) va boshqa xarajatlarga qo’shimcha mas’ul bo’lasiz. Biz bilan 10-16% margin olasiz, bu o’zingiz qilganingizdan ancha yuqori.

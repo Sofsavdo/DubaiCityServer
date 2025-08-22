@@ -1,0 +1,403 @@
+DubaiCityServer:150 Unchecked runtime.lastError: The message port closed before a response was received.
+DubaiCityServer:1 [Intervention] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://replit.com/public/fonts/ibm-plex-sans-v8-latin-regular.woff2
+_app-8412484c36008d85.js:13 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+_app-8412484c36008d85.js:13 [LaunchDarkly] LaunchDarkly client initialized
+ [Intervention] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://replit.com/public/fonts/ibm-plex-sans-v8-latin-500.woff2
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%228c8f930f-dd44-4189-87c4-b52204e9bb3f%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=8c8f930f-dd44-4189-87c4-b52204e9bb3f&stripeObjId=sobj-8c403c46-dab5-49ec-9e52-8a2c6945939d&firstStripeInstanceCreatedLatency=8&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755600679421&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&controllerId=__privateStripeController7831:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%228c8f930f-dd44-4189-87c4-b52204e9bb3f%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=8c8f930f-dd44-4189-87c4-b52204e9bb3f&stripeObjId=sobj-8c403c46-dab5-49ec-9e52-8a2c6945939d&firstStripeInstanceCreatedLatency=8&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755600679421&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&controllerId=__privateStripeController7831:1 Unchecked runtime.lastError: The message port closed before a response was received.
+sw_iframe.html?origin=https%3A%2F%2Freplit.com:7 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&title=DubaiCityServer%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&title=DubaiCityServer%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+m.stripe.network/inner.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&title=DubaiCityServer%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'battery'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'layout-animations'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'navigation-override'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'oversized-images'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'publickey-credentials'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'speaker-selection'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'unoptimized-images'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'unsized-media'.
+_ @ framework-32fbc922dea7b110.js:1
+ Unrecognized feature: 'pointer-lock'.
+_ @ framework-32fbc922dea7b110.js:1
+ Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-32fbc922dea7b110.js:1
+ Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-32fbc922dea7b110.js:1
+analytics.tiktok.com/i18n/pixel/events.js?sdkid=D004GE3C77U8PIVDSDJG&lib=ttq:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+DubaiCityServer:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSW1LNlJ4UVlTQmdpM3lwSEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRULQ2CvaudrO7EVSWdewEQTGiex-gRVvIB6_MTrbtzTF5bFm5VQW0FJ-KyubA89zPyN6Jao3sA3oWtFD20T4Xs8F.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: 
+connect @ 3635-39fed538a3372a45.js:1
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSW1LNlJ4UVlTQmdpM3lwSEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRULQ2CvaudrO7EVSWdewEQTGiex-gRVvIB6_MTrbtzTF5bFm5VQW0FJ-KyubA89zPyN6Jao3sA3oWtFD20T4Xs8F.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: 
+connect @ 3635-39fed538a3372a45.js:1
+ WebSocket connection to 'wss://production-ai-chat.replit.com/river?auth_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ0OTE2NTI0LCJ1c2VyVGltZUNyZWF0ZWQiOiIyMDI1LTA3LTExVDIyOjIwOjU2LjU5NFoiLCJyZXBsSWQiOiIyYzg2ZGNjNy1mY2E3LTQwNDQtYTljYy1lMDBlNDYxMTdkMWQiLCJtZW1iZXJzaGlwIjoiY29yZSIsImlzc3VlciI6Imh0dHBzOi8vcmVwbGl0LXdlYi1wcm9kLnAucmVwbGl0LmNvbSIsInJvbGVzIjpbImludGVudF9wZXJzb25hbCJdLCJjYW5Xcml0ZSI6dHJ1ZSwiaGFzUmVwbGl0QWlQcm8iOnRydWUsImZsYWdnaW5nQ29udGV4dCI6IntcImtleVwiOlwidXNlcjo0NDkxNjUyNFwiLFwia2luZFwiOlwib3duZXJcIixcInJvbGVzXCI6W1wiaW50ZW50X3BlcnNvbmFsXCJdLFwiaXNfdGVhbVwiOmZhbHNlLFwibWVtYmVyc2hpcFwiOlwiY29yZVwifSIsImlhdCI6MTc1NTYwMDY3OSwiZXhwIjoxNzU1NjA0Mjc5fQ.VG1sYYZ8fPN7NxSGISPrnBg2CZVIpkfJYlABenqT_MDzeA07jgECSA9ySlQqdeyvITl73KFLBaWxY7HbpEr-nUQF_jUpwI42KRA1-dLVe7zzj9bm7lwfw8c4_BrvyG_10f5LU5kTfJ0xO686DVjJ5b8of5pXCQMtOk0dIApwsNYrFRGHbHr1ZFZDaT4gBHJ_2dwRoxYKNL9TNIG5ojiu-s8vQ1ni3rG07xtpJ1mrznbYPuk_oYFFBgu_zNSIFWZBo7V5MtUL-20WpdicF9m0TjAkHdbNdCYN57QtNxHpa2Y9O3Jd-N0-MPxwe-KEQThmzxkvLmH5quHrzNfhkZ4bJg' failed: 
+(анонимная) @ 9089-19e7b87147fe58df.js:1
+ WebSocket connection to 'wss://production-chort.replit.com/api/river' failed: 
+(анонимная) @ 9089-19e7b87147fe58df.js:1
+ WebSocket connection to 'wss://replit.com/graphql_subscriptions' failed: 
+(анонимная) @ _app-8412484c36008d85.js:40
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=44adf92b-6118-438f-b91d-cc2077b06182:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+r.stripe.com/b:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+r.stripe.com/b:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+shared-f8a56c0318f3cc1d7929188867e64f39.js:1 Uncaught (in promise) FetchError: Error fetching https://r.stripe.com/b: Failed to fetch
+    at shared-f8a56c0318f3cc1d7929188867e64f39.js:1:220146
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+sp.replit.com/v1/t:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+r.stripe.com/b:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+r.stripe.com/b:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+shared-f8a56c0318f3cc1d7929188867e64f39.js:1 Uncaught (in promise) FetchError: Error fetching https://r.stripe.com/b: Failed to fetch
+    at shared-f8a56c0318f3cc1d7929188867e64f39.js:1:220146
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 9748-7baf844a58d2e7e0.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 9748-7baf844a58d2e7e0.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 9748-7baf844a58d2e7e0.js:1
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSTFNeVJ4UVlTQmdqejZKSEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRUJunWVq6aSVLh02-ysy112b31_hhLV9fYbfm_6JxCJ3a2tN_tblh6iaPB_fm6esTAzN7E3aY-pScrfE7PDgIgMG.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: WebSocket is closed before the connection is established.
+cleanupSocket @ 3635-39fed538a3372a45.js:1
+ WebSocket connection to 'wss://replit.com/graphql_subscriptions' failed: 
+(анонимная) @ _app-8412484c36008d85.js:40
+ WebSocket connection to 'wss://production-chort.replit.com/api/river' failed: 
+(анонимная) @ 9089-19e7b87147fe58df.js:1
+ WebSocket connection to 'wss://production-ai-chat.replit.com/river?auth_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ0OTE2NTI0LCJ1c2VyVGltZUNyZWF0ZWQiOiIyMDI1LTA3LTExVDIyOjIwOjU2LjU5NFoiLCJyZXBsSWQiOiIyYzg2ZGNjNy1mY2E3LTQwNDQtYTljYy1lMDBlNDYxMTdkMWQiLCJtZW1iZXJzaGlwIjoiY29yZSIsImlzc3VlciI6Imh0dHBzOi8vcmVwbGl0LXdlYi1wcm9kLnAucmVwbGl0LmNvbSIsInJvbGVzIjpbImludGVudF9wZXJzb25hbCJdLCJjYW5Xcml0ZSI6dHJ1ZSwiaGFzUmVwbGl0QWlQcm8iOnRydWUsImZsYWdnaW5nQ29udGV4dCI6IntcImtleVwiOlwidXNlcjo0NDkxNjUyNFwiLFwia2luZFwiOlwib3duZXJcIixcInJvbGVzXCI6W1wiaW50ZW50X3BlcnNvbmFsXCJdLFwiaXNfdGVhbVwiOmZhbHNlLFwibWVtYmVyc2hpcFwiOlwiY29yZVwifSIsImlhdCI6MTc1NTYwNTQwOSwiZXhwIjoxNzU1NjA5MDA5fQ.cHyd3RgOFaximodnVf8nM4EmCa33AnlhSfUIJlxeZaZBthBvQC7GG5EbXDtntaBABf4mM1ZeotB73oE4ry1RujZFhafu1n2LmBiMtsRUSj1ISb9ej39Pmh2Y2bkP-JOYxOCWD1AHZzFf9dHCAMINA_C0qgINfk5AIxgGgJzu2ReE6WOoFe9HQ5UUuEIGf0yP--g2GPOLOiAl83lqzlIhijrNYBLDnBvLZlT25FLcb_v1_HDkgLrBNazRjP2p8KG6e_cvXyLSel8i2FN-SXp2yikjQ04-78GD_NEwMA5DYXivDPHklR2gag6b9EvVfW9hqLsTSPN4W6k4Q_cgofsVIg' failed: 
+(анонимная) @ 9089-19e7b87147fe58df.js:1
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=9a973d13-8495-4233-ac5b-80e391ce7c02:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=1f419159-24ee-416e-ba14-f3ae8fed8162:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=223baee3-6847-4b2c-b2f8-25cd4bbd71c6:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=650c3ba2-ad7c-4705-8da7-776f8aaa5973:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40%2Cretry_count%3A1%2Cretry_after%3A0&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=47f10c3a-6991-4281-a2fd-a5042aa4a535:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40%2Cretry_count%3A1%2Cretry_after%3A0&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=70fbbb98-d8e3-4d97-aa5b-5787c40b97f1:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+/graphql:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ WebSocket connection to 'wss://production-ai-chat.replit.com/river?auth_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ0OTE2NTI0LCJ1c2VyVGltZUNyZWF0ZWQiOiIyMDI1LTA3LTExVDIyOjIwOjU2LjU5NFoiLCJyZXBsSWQiOiIyYzg2ZGNjNy1mY2E3LTQwNDQtYTljYy1lMDBlNDYxMTdkMWQiLCJtZW1iZXJzaGlwIjoiY29yZSIsImlzc3VlciI6Imh0dHBzOi8vcmVwbGl0LXdlYi1wcm9kLnAucmVwbGl0LmNvbSIsInJvbGVzIjpbImludGVudF9wZXJzb25hbCJdLCJjYW5Xcml0ZSI6dHJ1ZSwiaGFzUmVwbGl0QWlQcm8iOnRydWUsImZsYWdnaW5nQ29udGV4dCI6IntcImtleVwiOlwidXNlcjo0NDkxNjUyNFwiLFwia2luZFwiOlwib3duZXJcIixcInJvbGVzXCI6W1wiaW50ZW50X3BlcnNvbmFsXCJdLFwiaXNfdGVhbVwiOmZhbHNlLFwibWVtYmVyc2hpcFwiOlwiY29yZVwifSIsImlhdCI6MTc1NTYwNTQwOSwiZXhwIjoxNzU1NjA5MDA5fQ.cHyd3RgOFaximodnVf8nM4EmCa33AnlhSfUIJlxeZaZBthBvQC7GG5EbXDtntaBABf4mM1ZeotB73oE4ry1RujZFhafu1n2LmBiMtsRUSj1ISb9ej39Pmh2Y2bkP-JOYxOCWD1AHZzFf9dHCAMINA_C0qgINfk5AIxgGgJzu2ReE6WOoFe9HQ5UUuEIGf0yP--g2GPOLOiAl83lqzlIhijrNYBLDnBvLZlT25FLcb_v1_HDkgLrBNazRjP2p8KG6e_cvXyLSel8i2FN-SXp2yikjQ04-78GD_NEwMA5DYXivDPHklR2gag6b9EvVfW9hqLsTSPN4W6k4Q_cgofsVIg' failed: 
+(анонимная) @ 9089-19e7b87147fe58df.js:1
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ WebSocket connection to 'wss://replit.com/graphql_subscriptions' failed: 
+(анонимная) @ _app-8412484c36008d85.js:40
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSWdOMlJ4UVlTQmdpZitaSEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRUKA2UP-ATqYU49t7cvFUzwY_PLNIY1_6YGJoDtsNeGFUHgwDbp4ZMNh_emBT3_hWUD_HEjUUp8iI9YRTMHV82EC.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: 
+connect @ 3635-39fed538a3372a45.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+api.sorryapp.com/v1/pages/27c7b5fc:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+events.launchdarkly.com/events/diagnostic/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+analytics.google.com/g/collect?v=2&tid=G-MPJY3F1YEL&gtm=45je58f1v9135634466za200&_p=1755600680199&_gaz=1&gcd=13l3l3l3l2l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528500~104684208~104684211~104948813~105033766~105033768~105103161~105103163~105231383~105231385&ul=ru-ru&sr=1536x920&cid=289612004.1752253513&ecid=329736767&ir=1&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B99.0.0.0%7CGoogle%2520Chrome%3B139.0.7258.128%7CChromium%3B139.0.7258.128&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=&_eu=EBAIAAQ&_s=102&dl=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FDubaiCityServer&dp=%2F%40DubaiCitybot%2FDubaiCityServer&dt=replEnvironmentDesktop&sid=1755612213&sct=96&seg=1&_tu=wAQ&en=Agent%20Used&_ee=1&ep.event_category=All&ep.value=0&_et=30609&tfd=11629993:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j102&tid=UA-25629695-1&cid=289612004.1752253513&jid=1953935723&gjid=1080038438&_gid=727538964.1755460812&_u=SCCAgEAjQAAAAGgCIAD~&z=957879745:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_CONNECTION_RESET
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+attached_assets/image_1755612305091.png:1  Failed to load resource: the server responded with a status of 404 ()
+r.stripe.com/b:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+r.stripe.com/b:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+shared-f8a56c0318f3cc1d7929188867e64f39.js:1 Uncaught (in promise) FetchError: Error fetching https://r.stripe.com/b: Failed to fetch
+    at shared-f8a56c0318f3cc1d7929188867e64f39.js:1:220146
+sp.replit.com/v1/t:1  Failed to load resource: net::ERR_NETWORK_CHANGED
+sp.replit.com/v1/t:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSXJJaVN4UVlTQmdqTHBKTEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRUJGNWDdmsi1fxWnbHcGmaKY_oKHwFfuadFxtPgtM7aPTR8p7Kmoaakodbi5tAKuHJ-ryhKsdLZG_t86uUb9v8oC.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: 
+connect @ 3635-39fed538a3372a45.js:1
+4359-26e6e72ef883eed4.js:1 Uncaught (in promise) Error: Committing while reconnecting
+    at r.p [as debounceCommit] (4359-26e6e72ef883eed4.js:1:16712)
+    at f.handlePacket (4359-26e6e72ef883eed4.js:1:6327)
+    at 4359-26e6e72ef883eed4.js:1:12798
+    at Object.next (main-17d7df7c001d9df6.js:1:157719)
+    at n (main-17d7df7c001d9df6.js:1:73504)
+    at u (main-17d7df7c001d9df6.js:1:73701)
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=f703bf70-03e8-43de-a40c-c4ec9268bf3f:1  Failed to load resource: net::ERR_CONNECTION_TIMED_OUT
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=12d5af7c-c9fc-4bf6-936d-618157924fb2:1  Failed to load resource: net::ERR_CONNECTION_TIMED_OUT
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=f6e3bee9-f9e8-44f1-8e47-94bdfae84fbe:1  Failed to load resource: net::ERR_CONNECTION_TIMED_OUT
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=a036082e-f0cf-4bac-9e6a-841f161d9839:1  Failed to load resource: net::ERR_CONNECTION_TIMED_OUT
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_CONNECTION_RESET
+/graphql:1  Failed to load resource: net::ERR_CONNECTION_RESET
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_CONNECTION_RESET
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=88a79cc3-89c5-4faa-bccf-455ec18afd24:1  Failed to load resource: net::ERR_CONNECTION_RESET
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+content-all.js:1 Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.
+    at y (content-all.js:1:55748)
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+content-all.js:1 Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.
+    at y (content-all.js:1:55748)
+/graphql:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+/oidc-login-consent/F3RSV4o84V5yuqn3V-Eop:150 Unchecked runtime.lastError: The message port closed before a response was received.
+sw_iframe.html?origin=https%3A%2F%2Freplit.com:7 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%229f60fb98-431e-4f53-929d-27e9f61e6539%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=9f60fb98-431e-4f53-929d-27e9f61e6539&stripeObjId=sobj-1c45422a-ef9e-4787-b818-f76337627299&firstStripeInstanceCreatedLatency=19&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755619300987&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FF3RSV4o84V5yuqn3V-Eop&controllerId=__privateStripeController0051:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%229f60fb98-431e-4f53-929d-27e9f61e6539%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=9f60fb98-431e-4f53-929d-27e9f61e6539&stripeObjId=sobj-1c45422a-ef9e-4787-b818-f76337627299&firstStripeInstanceCreatedLatency=19&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755619300987&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FF3RSV4o84V5yuqn3V-Eop&controllerId=__privateStripeController0051:1 Unchecked runtime.lastError: The message port closed before a response was received.
+/oidc-login-consent/xH2udBZQhybaKX2FtSI7R:150 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%22f9808e3d-fc44-453d-8a9a-2f40d2656b1b%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=f9808e3d-fc44-453d-8a9a-2f40d2656b1b&stripeObjId=sobj-320a01f3-d1c8-4142-97d7-910ee2ce8b64&firstStripeInstanceCreatedLatency=18&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755619305546&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FxH2udBZQhybaKX2FtSI7R&controllerId=__privateStripeController4091:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%22f9808e3d-fc44-453d-8a9a-2f40d2656b1b%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=f9808e3d-fc44-453d-8a9a-2f40d2656b1b&stripeObjId=sobj-320a01f3-d1c8-4142-97d7-910ee2ce8b64&firstStripeInstanceCreatedLatency=18&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755619305546&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FxH2udBZQhybaKX2FtSI7R&controllerId=__privateStripeController4091:1 Unchecked runtime.lastError: The message port closed before a response was received.
+sw_iframe.html?origin=https%3A%2F%2Freplit.com:1 Unchecked runtime.lastError: The message port closed before a response was received.
+[Violation] Potential permissions policy violation: payment is not allowed in this document.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FxH2udBZQhybaKX2FtSI7R&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FxH2udBZQhybaKX2FtSI7R&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+m.stripe.network/inner.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FxH2udBZQhybaKX2FtSI7R&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+[Violation] Potential permissions policy violation: payment is not allowed in this document.
+analytics.tiktok.com/i18n/pixel/events.js?sdkid=D004GE3C77U8PIVDSDJG&lib=ttq:1  Failed to load resource: net::ERR_CONNECTION_RESET
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+/oidc-login-consent/fmGhgWzD7kDBEcszLwYGG:150 Unchecked runtime.lastError: The message port closed before a response was received.
+sw_iframe.html?origin=https%3A%2F%2Freplit.com:7 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%22010159d4-8588-4f76-8f85-2e4606089f92%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=010159d4-8588-4f76-8f85-2e4606089f92&stripeObjId=sobj-84b08ba9-48a0-48f2-9fa3-a35ff321aa7c&firstStripeInstanceCreatedLatency=16&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755619674918&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FfmGhgWzD7kDBEcszLwYGG&controllerId=__privateStripeController3591:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%22010159d4-8588-4f76-8f85-2e4606089f92%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=010159d4-8588-4f76-8f85-2e4606089f92&stripeObjId=sobj-84b08ba9-48a0-48f2-9fa3-a35ff321aa7c&firstStripeInstanceCreatedLatency=16&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755619674918&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FfmGhgWzD7kDBEcszLwYGG&controllerId=__privateStripeController3591:1 Unchecked runtime.lastError: The message port closed before a response was received.
+[Violation] Potential permissions policy violation: payment is not allowed in this document.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FfmGhgWzD7kDBEcszLwYGG&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FfmGhgWzD7kDBEcszLwYGG&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+m.stripe.network/inner.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FfmGhgWzD7kDBEcszLwYGG&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+[Violation] Potential permissions policy violation: payment is not allowed in this document.
+/oidc-login-consent/T6Y_qFZozYJ4DdedmSaZp:150 Unchecked runtime.lastError: The message port closed before a response was received.
+sw_iframe.html?origin=https%3A%2F%2Freplit.com:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%2217a7fb51-5815-4cca-a0c7-b3cecb41cd87%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=17a7fb51-5815-4cca-a0c7-b3cecb41cd87&stripeObjId=sobj-77a27bb3-253e-40d6-94a0-3bb044284975&firstStripeInstanceCreatedLatency=55&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755619704410&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FT6Y_qFZozYJ4DdedmSaZp&controllerId=__privateStripeController3601:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%2217a7fb51-5815-4cca-a0c7-b3cecb41cd87%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=17a7fb51-5815-4cca-a0c7-b3cecb41cd87&stripeObjId=sobj-77a27bb3-253e-40d6-94a0-3bb044284975&firstStripeInstanceCreatedLatency=55&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755619704410&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FT6Y_qFZozYJ4DdedmSaZp&controllerId=__privateStripeController3601:1 Unchecked runtime.lastError: The message port closed before a response was received.
+[Violation] Potential permissions policy violation: payment is not allowed in this document.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FT6Y_qFZozYJ4DdedmSaZp&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FT6Y_qFZozYJ4DdedmSaZp&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+m.stripe.network/inner.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FT6Y_qFZozYJ4DdedmSaZp&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+[Violation] Potential permissions policy violation: payment is not allowed in this document.
+ Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.google.com') does not match the recipient window's origin ('https://replit.com').
+uv @ js?id=AW-11411994397:464
+ Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://replit.com').
+uv @ js?id=AW-11411994397:464
+ Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://m.youtube.com') does not match the recipient window's origin ('https://replit.com').
+uv @ js?id=AW-11411994397:464
+analytics.tiktok.com/i18n/pixel/events.js?sdkid=D004GE3C77U8PIVDSDJG&lib=ttq:1  Failed to load resource: net::ERR_CONNECTION_RESET
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSXByR1N4UVlTQmdqRnpaTEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRULFY2aiDO3ZkfLdtRmqhwlcZXQVRHHdlrEs-eCaTKXkaDyAMlHnu1PeKFmKHJLd_71JMm-rAj56XhTYrV5HkJQD.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: 
+connect @ 3635-39fed538a3372a45.js:1
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Abeacon%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=9dee71e5-b76d-484a-9898-9fda383646df:1  Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSXBlR1N4UVlTQmdqRS9aTEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRUL0N8Ot2u-t0sLLS_mjdzA6whJd-JuiMCD5CctoPcclWKBXOnYUGbzGQYusNmlMA4I2Y8Uwbqwp-3mMJI82kpsN.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: WebSocket is closed before the connection is established.
+cleanupSocket @ 3635-39fed538a3372a45.js:1
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+ WebSocket connection to 'wss://production-ai-chat.replit.com/river?auth_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ0OTE2NTI0LCJ1c2VyVGltZUNyZWF0ZWQiOiIyMDI1LTA3LTExVDIyOjIwOjU2LjU5NFoiLCJyZXBsSWQiOiIyYzg2ZGNjNy1mY2E3LTQwNDQtYTljYy1lMDBlNDYxMTdkMWQiLCJtZW1iZXJzaGlwIjoiY29yZSIsImlzc3VlciI6Imh0dHBzOi8vcmVwbGl0LXdlYi1wcm9kLnAucmVwbGl0LmNvbSIsInJvbGVzIjpbImludGVudF9wZXJzb25hbCJdLCJjYW5Xcml0ZSI6dHJ1ZSwiaGFzUmVwbGl0QWlQcm8iOnRydWUsImZsYWdnaW5nQ29udGV4dCI6IntcImtleVwiOlwidXNlcjo0NDkxNjUyNFwiLFwia2luZFwiOlwib3duZXJcIixcInJvbGVzXCI6W1wiaW50ZW50X3BlcnNvbmFsXCJdLFwiaXNfdGVhbVwiOmZhbHNlLFwibWVtYmVyc2hpcFwiOlwiY29yZVwifSIsImlhdCI6MTc1NTYyMzU5MCwiZXhwIjoxNzU1NjI3MTkwfQ.XG98Mv4a-faoWo-qNSLy6-ngd7Il955XPpYdwQ2Ooz_nvmJ9RJf_KuHYY2hsvbcgOruLAzhIMA_VNyN3F_0lnxbL40HC1CJWO8mG1MtWYhM1pkXtUxkZdM8lkwUKuhPGq63uA38AipmNAj2R6aQLtoNvNqAcZ7NBA2uuhujgfErL-lY8hZAJYfmXSdnwIOcLHI1A1BPDhqW8LCbwQ0ug565Q71MTIVkEk2OYMfTcc_LOl8VDzhFs8yDA7KkyfWYp-6_1QEsC3p-LzlQrro5n8vvH_kTaBnxtTPyVKpxM1mLKqLKM4O942XwJxE4NYVaHDJsCt_Z6atkh-ff9-D0ZuQ' failed: 
+(анонимная) @ 9089-19e7b87147fe58df.js:1
+ WebSocket connection to 'wss://production-chort.replit.com/api/river' failed: 
+(анонимная) @ 9089-19e7b87147fe58df.js:1
+ WebSocket connection to 'wss://replit.com/graphql_subscriptions' failed: 
+(анонимная) @ _app-8412484c36008d85.js:40
+sp.replit.com/v1/m:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+/data/repls/2c86dcc7-fca7-4044-a9cc-e00e46117d1d/get_connection_metadata:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+api.sorryapp.com/v1/pages/27c7b5fc:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+api.sorryapp.com/v1/pages/27c7b5fc:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=54f957f6-e6dc-4587-b07e-55c616a3f917:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=d2f89ca4-4047-455b-821f-37d97890ed74:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40%2Cretry_count%3A1%2Cretry_after%3A0&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=82654956-f981-4166-8d14-6de1061e7f76:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Axhr%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40%2Cretry_count%3A1%2Cretry_after%3A0&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=48164e5e-4cd6-4a1a-bda9-33a58d958915:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+/oidc-login-consent/aLevwg7B021me0JrkpEHd:147 Unchecked runtime.lastError: The message port closed before a response was received.
+sw_iframe.html?origin=https%3A%2F%2Freplit.com:7 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%22fa9d1898-3abe-46c3-886d-74acfe7d2de2%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=fa9d1898-3abe-46c3-886d-74acfe7d2de2&stripeObjId=sobj-c87e981a-b211-432f-bbae-e84e593cd745&firstStripeInstanceCreatedLatency=7&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755623643771&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FaLevwg7B021me0JrkpEHd&controllerId=__privateStripeController9861:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-152b5c791b1e92841c39bbae21646771.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%22fa9d1898-3abe-46c3-886d-74acfe7d2de2%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=fa9d1898-3abe-46c3-886d-74acfe7d2de2&stripeObjId=sobj-c87e981a-b211-432f-bbae-e84e593cd745&firstStripeInstanceCreatedLatency=7&topOriginForCrossOriginFrame=https%3A%2F%2Freplit.com&controllerCount=1&isCheckout=false&stripeJsLoadTime=1755623643771&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=NA&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FaLevwg7B021me0JrkpEHd&controllerId=__privateStripeController9861:1 Unchecked runtime.lastError: The message port closed before a response was received.
+[Violation] Potential permissions policy violation: payment is not allowed in this document.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FaLevwg7B021me0JrkpEHd&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FaLevwg7B021me0JrkpEHd&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+m.stripe.network/inner.html#url=https%3A%2F%2Freplit.com%2Foidc-login-consent%2FaLevwg7B021me0JrkpEHd&title=&referrer=https%3A%2F%2F2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+[Violation] Potential permissions policy violation: payment is not allowed in this document.
+analytics.tiktok.com/i18n/pixel/events.js?sdkid=D004GE3C77U8PIVDSDJG&lib=ttq:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+content-all.js:1 Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.
+    at y (content-all.js:1:55748)
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSXRlR1N4UVlTQmdqVS9aTEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRUK5smi8B3RJG7U_ikUeqnUg9oZjIK5Q3qV2_eKIWoYROGmIMxi7lZ84UZJyY2_35yuECh1Vv9Kb6yqX6cqDUsIB.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: 
+connect @ 3635-39fed538a3372a45.js:1
+ WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSXRlR1N4UVlTQmdqVS9aTEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRUK5smi8B3RJG7U_ikUeqnUg9oZjIK5Q3qV2_eKIWoYROGmIMxi7lZ84UZJyY2_35yuECh1Vv9Kb6yqX6cqDUsIB.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: WebSocket is closed before the connection is established.
+cleanupSocket @ 3635-39fed538a3372a45.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3A5e10cb40&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=b340e50e-b9f4-45d5-868c-b4854ec94032:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+ Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+/graphql:1  Failed to load resource: net::ERR_CONNECTION_CLOSED
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+stallwart.build.js:1 stallwart: failed ping 2
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+anchor?ar=2&k=6LdqhwwoAAAAAFPdw8jCuvY3PaHQItGj3RzOS4fW&co=aHR0cHM6Ly9yZXBsaXQuY29tOjQ0Mw..&hl=ru&v=…:180 Unchecked runtime.lastError: The message port closed before a response was received.
+stallwart.build.js:1 stallwart: failed ping 1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+3635-39fed538a3372a45.js:1 WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSXRlR1N4UVlTQmdqVS9aTEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRUK5smi8B3RJG7U_ikUeqnUg9oZjIK5Q3qV2_eKIWoYROGmIMxi7lZ84UZJyY2_35yuECh1Vv9Kb6yqX6cqDUsIB.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: 
+connect @ 3635-39fed538a3372a45.js:1
+3635-39fed538a3372a45.js:1 WebSocket connection to 'wss://eval.riker.platform.replit.com/wsv2/v2.public.Q2dZSXRlR1N4UVlTQmdqVS9aTEZCaUlGY21sclpYSXdBRHJVQVFva01tTTRObVJqWXpjdFptTmhOeTAwTURRMExXRTVZMk10WlRBd1pUUTJNVEUzWkRGa0VnTnVhWGdhRjNKbGNHeHBkQzF5WlhCc0xXWnBiR1Z6TFhKcGEyVnlJZzlFZFdKaGFVTnBkSGxUWlhKMlpYSXFERVIxWW1GcFEybDBlV0p2ZEVKUkNoaHlaWEJzYVhRdGNtVndiQzFpYkc5amEzTXRjbWxyWlhJU0ZuSmxjR3hwZEMxeVpYQnNMVzFsZEdFdGNtbHJaWElhSFhKbGNHeHBkQzF0WVhKbllYSnBibVV0WW14dlkydHpMWEpwYTJWeVNnY0lyTDYxRlJBQlVBQmFEMmx1ZEdWdWRGOXdaWEp6YjI1aGJIZ0FVaU1JQVJDQWdJQ0FJQmtBQUFBQUFBQVFRQ0VBQUFBQUFBQVFRQ2lBZ0lDQXlBRXdBbUFBYWhNSXJMNjFGUklNUkhWaVlXbERhWFI1WW05MGdnRUNLZ0NhQVFvS0NEQXVNQzR4TmpReG9BRUK5smi8B3RJG7U_ikUeqnUg9oZjIK5Q3qV2_eKIWoYROGmIMxi7lZ84UZJyY2_35yuECh1Vv9Kb6yqX6cqDUsIB.Q2dad2NtOWtPak1pQ25KbGNHeHBkQzVqYjIwPQ' failed: 
+connect @ 3635-39fed538a3372a45.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+framework-32fbc922dea7b110.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-32fbc922dea7b110.js:1
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:24 Unchecked runtime.lastError: The message port closed before a response was received.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'battery'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html?initialPath=%2Fadmin-login&id=%3Ar87f%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+admin-login:1 Unchecked runtime.lastError: The message port closed before a response was received.
+2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev/api/auth/user:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Console.js:61 🔍 Checking user session...
+Console.js:61 🌐 API Request: GET /api/auth/user?t=1755629843975
+Console.js:61 🍪 Current cookies before request: 
+2c86dcc7-fca7-4044-a9cc-e00e46117d1d-00-9o6qdo13wkun.riker.replit.dev/api/auth/user?t=1755629843975:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Console.js:61 📡 API Response: 401 Unauthorized
+Console.js:61 🍪 Cookies after response: 
+Console.js:61 📋 Response headers: Object
+Console.js:61 ✅ Current user: null
+index-B1PMRWhs.css:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
