@@ -49,12 +49,12 @@ app.use(session({
   saveUninitialized: false,
   name: 'sessionId',
   cookie: {
-    secure: process.env.NODE_ENV === 'production',
-    httpOnly: true,
-    maxAge: 24 * 60 * 60 * 1000, // 24 hours
-    sameSite: process.env.NODE_ENV === 'production' ? 'strict' : 'lax',
-    domain: undefined,
-  },
+  secure: process.env.NODE_ENV === 'production',
+  httpOnly: true,
+  maxAge: 24 * 60 * 60 * 1000, // 24 hours
+  sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax',
+  domain: undefined,
+},
 }));
 
 // Logging middleware for API requests
