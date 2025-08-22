@@ -168,4 +168,6 @@ export const postPartnerActivationRequest = async (data: any) => {
 };
 
 export const getPartnerActivationRequestsAdmin = async (partnerId: string) => {
-  const response = await apiRequest(`
+  const response = await apiRequest(`/api/partner-activation-requests/${partnerId}`);
+  return await response.json();
+};
